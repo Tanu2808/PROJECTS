@@ -1,0 +1,66 @@
+{
+    "P101": {
+        "type": "physical",
+        "product_id": "P101",
+        "name": "Wireless Mouse",
+        "price": 699.0,
+        "quantity_available": 15,
+        "weight": 0.2
+    },
+    "P102": {
+        "type": "physical",
+        "product_id": "P102",
+        "name": "Mechanical Keyboard",
+        "price": 2499.0,
+        "quantity_available": 10,
+        "weight": 1.2
+    },
+    "P103": {
+        "type": "physical",
+        "product_id": "P103",
+        "name": "USB-C Charger",
+        "price": 899.0,
+        "quantity_available": 20,
+        "weight": 0.3
+    },
+    "P104": {
+        "type": "digital",
+        "product_id": "P104",
+        "name": "E-Book: Learn Python",
+        "price": 299.0,
+        "quantity_available": 50,
+        "download_link": "https://example.com/python-ebook"
+    },
+    "P105": {
+        "type": "digital",
+        "product_id": "P105",
+        "name": "Music Album: Chill Beats",
+        "price": 149.0,
+        "quantity_available": 100,
+        "download_link": "https://example.com/chillbeats"
+    },
+    "P106": {
+        "type": "physical",
+        "product_id": "P106",
+        "name": "Gaming Headset",
+        "price": 3499.0,
+        "quantity_available": 8,
+        "weight": 0.9
+    },
+    "P107": {
+        "type": "digital",
+        "product_id": "P107",
+        "name": "Video Course: Data Structures",
+        "price": 599.0,
+        "quantity_available": 30,
+        "download_link": "https://example.com/dsa-course"
+    },
+    "P110": {
+        "type": "physical",
+        "product_id": "P110",
+        "name": "Wrist Watch",
+        "price": 2000.0,
+        "quantity_available": 20,
+        "weight": 0.15
+    }
+}

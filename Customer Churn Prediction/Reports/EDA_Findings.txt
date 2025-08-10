@@ -1,0 +1,5 @@
+
+1. Dataset contains 7043 rows and 31 columns.
+2. Churn distribution is imbalanced with approx 26.54% churn rate.
+3. Tenure, MonthlyCharges, and Contract type show clear patterns with churn.
+4. Customers with month-to-month contracts, no dependents, and low tenure have higher churn.
